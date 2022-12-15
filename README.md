@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Yasvanth-2005
-- 👀 I’m interested in web development,pythom
-- 🌱 I’m currently learning both
+- 👋 Hi, I’m Yasvanth Hanumantu
+- - 👀 I’m interested in full stack web development
 - 💞️ I’m looking to collaborate on web develpment
-- 📫 mail me
+- 📫 find me on linkedin and instagram
 
 <!---
 Yasvanth-2005/Yasvanth-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
